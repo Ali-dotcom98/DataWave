@@ -46,6 +46,6 @@ npm run dev
 
 ## 🖼️ Screenshot
 
-![GemBuild Screenshot](https://github.com/Ali-dotcom98/DataWave/blob/main/Desktop%20-%201.png?raw=true)
+![DataWave Screenshot](https://github.com/Ali-dotcom98/DataWave/blob/main/Desktop%20-%201.png?raw=true)
 
 ---
