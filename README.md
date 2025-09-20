@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Features  
+## 🚀 Features  
 
 - 🏠 **Hero Section & Navigation** – Clean navigation with Home, About, Services, Portfolio, Blog, and Contact.  
 - 🛡 **Why Choose Us** – Proven Expertise, Customized Solutions, and Exceptional Support.  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Installation  
+## 📦 Installation  
 
 ```bash
 # Clone the repository
