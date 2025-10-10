@@ -1,6 +1,6 @@
-# 🌐 Datawave – Innovative IT Solutions for the Future  
+# 🌐 DataWave – Innovative IT Solutions for the Future  
 
-**Datawave** is a professional and responsive IT services website designed to showcase expertise in cloud solutions, cybersecurity, software development, and data analytics. With proven experience across industries, Datawave provides tailored, scalable, and innovative technology solutions that drive business growth and efficiency.  
+**DataWave** is a professional and responsive IT services website designed to showcase expertise in cloud solutions, cybersecurity, software development, and data analytics. With proven experience across industries, Datawave provides tailored, scalable, and innovative technology solutions that drive business growth and efficiency.  
 
 ---
 
